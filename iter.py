@@ -1,0 +1,5 @@
+i = iter('abc')
+print(next(i))
+print(next(i))
+print(next(i))
+print(next(i))
