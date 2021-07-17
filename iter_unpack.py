@@ -7,5 +7,5 @@ c = *a, 4, 5
 print(c)
 
 # only unpack error
-d = *a
-print(d)
+# d = *a
+# print(d)
